@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Renan-Marchini
 - 👀 I’m interested in Swift development.
-- 🌱 I’m currently working with iOS apps using modularisation, pods and more.
+- 🌱 I’m currently working with iOS apps using modularisation with pods, coordinator and view code.
 - 💞️ I’m looking to collaborate on Mobile and international projects.
 - 📫 You can reach me on Instagram: ✨ @marchiniDeveloper ✨
