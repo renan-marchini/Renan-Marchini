@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Renan-Marchini
-- 👀 I’m interested in Swift development.
-- 🌱 I’m currently working with iOS apps using modularisation with pods, coordinator and view code.
-- 💞️ I’m looking to collaborate on Mobile and international projects.
-- 📫 You can reach me on Instagram: ✨ @marchiniDeveloper ✨
+- 👀 I’m an iOS development.
+- 🌱 I’ve been developing iOS apps sence 2019.
+- 🛠 Swift 5, Swift UI, coordinator architecture, SPM, Alomonfire, RxSwift, Figma/UX and more.
+- 📫 LinkedIn : ✨ https://www.linkedin.com/in/renan-marchini/ ✨ 
+- 👨‍💻 Instagram: ✨ @marchiniDeveloper ✨
